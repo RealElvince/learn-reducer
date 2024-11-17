@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+
+.button-div{
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
